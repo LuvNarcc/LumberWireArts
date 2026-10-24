@@ -1,5 +1,6 @@
 return {
-  
+
+    "NexusLogo.acwire
     "ACDC.acwire",
     "APA.acwire",
     "Among Us.acwire",
